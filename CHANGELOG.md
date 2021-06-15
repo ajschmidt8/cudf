@@ -3488,3 +3488,4 @@
 # cuDF 0.2.0 and cuDF 0.1.0
 
 These were initial releases of cuDF based on previously separate pyGDF and libGDF libraries.
+r3 is great!
